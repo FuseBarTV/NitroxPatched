@@ -4,8 +4,8 @@
 
 # Subnautica Nitrox (Patched)
 An open-source and patched multiplayer modification for the game <a href="https://unknownworlds.com/subnautica/">Subnautica</a>.
+If you would like a copy of the real Nitrox mod officially please go <a href="https://github.com/SubnauticaNitrox/Nitrox">here</a>.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/SubnauticaNitrox/Nitrox)](https://github.com/FuseBarTV/NitroxPatched/releases)
 
 ## FAQ
@@ -50,7 +50,7 @@ Simply submit a pull request. Full documentation can be found on the <a href="ht
 This is designed for people who want to play Nitrox on unofficial copies of Subnautica. I only assume that the use of this version of the program is for trialing the use of the program before deciding to purchasing Subnautica. If you do end up liking this Multiplayer mod for Subnautica please purchase the game on <a href="https://store.steampowered.com/app/264710/Subnautica/">Steam</a>.
 
 ### How can I donate?
-I do not accept donation but if you want to give money you can do so here: https://www.doctorswithoutborders.org/
+I do not accept donations but if you want to give money you can do so here: https://www.doctorswithoutborders.org/
 
 ### Why the name 'Nitrox'?
 Nitrox is an alternative air mixture, used by scuba divers, to achieve longer bottom times. As a mod, it will provide a new dimension of gameplay to extend your enjoyment.
