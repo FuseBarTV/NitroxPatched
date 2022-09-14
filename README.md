@@ -57,3 +57,5 @@ Nitrox is an alternative air mixture, used by scuba divers, to achieve longer bo
 
 ### Will this patched version be updated?
 Yes, I intend to update this following official Nitrox updates so that people can trial the full Nitrox experience but again, if you like the game please purchase it on <a href="https://store.steampowered.com/app/264710/Subnautica/">Steam</a>.
+
+I would like to point out that this code is NOT mine if anyone didn't already notice. The real developers and original source code can be found on the <a href="https://github.com/SubnauticaNitrox/Nitrox">Nitrox GitHub Repository</a>.
